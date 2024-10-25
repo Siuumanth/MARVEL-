@@ -61,6 +61,7 @@ app.get('/drinks/:id', (req, res) => {
     });
 });
 
+
 // adding drink
 app.post('/drinks/add', (req, res) => {
     const { name, desc } = req.body;
@@ -93,8 +94,7 @@ app.delete('/drinks/del/:id', (req, res) => {
 app.put('/drinks/update/:id', (req, res) => {
     const drinkId = req.params.id;
     const { name, desc } = req.body;
-
-
+    
     if (!name || !desc) {
         return res.status(400).json({ error: 'Name and description are required' });
     }
