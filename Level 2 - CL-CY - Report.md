@@ -21,10 +21,11 @@ This program sets up an Express server and integrates Socket.IO for real-time co
 
 ![alt](https://github.com/Siuumanth/MARVEL-/blob/main/Images/1-website.png?raw=true)
 
-
+---
 
 
 <br>
+
 ## Task 2: Git Bash and GitHub
 
 I learnt about the different Git processes like committing, push, pull, cloning, forking, branching, merging. I then learnt the different git commands, and how to use Git Bash, to navigate, add files and commit changes and initiate a pull request to the repository. I then learnt the concepts of branching and merging, their importance and how to implement it.
@@ -42,7 +43,9 @@ Suppose you are working in a team to build a website , and you are tasked with w
 #### Merge conflicts:
 A **merge conflict** occurs in Git when two branches have changes to the same part of a file, and Git cannot automatically decide which changes to keep. This often happens when multiple people edit the same lines of a file or make incompatible changes. To solve this, Git will need you to manually resolve this conflict, i.e. choose the correct branch you want to merge, or you can even manually add changes.
 
+---
 <br>
+
 ## Task 3: OSI MODEL
 
 I learnt how the internet works, how every communication process related to it is streamlined by the different layers of OSI Model, TCP/IP model protocols and methods. I completed a 4 hour course that explained how the internet works, how IP addressing and the different protocols work. 
@@ -69,7 +72,7 @@ The communication is streamlined the various protocols that are grouped conceptu
 
 ![OSI model](https://github.com/Siuumanth/MARVEL/blob/main/Images/3-osi.png?raw=true)
 
-
+---
 
 <br>
 
@@ -105,7 +108,7 @@ I then learnt about some common effective techniques of encryption and implement
 ![alt](https://github.com/Siuumanth/MARVEL/blob/main/Images/4-CBC.png?raw=true)
 [Link to the colab file](https://colab.research.google.com/drive/1HpsAe0URFra_V3qzI_l5_c2qTdaRETd2?usp=sharing)
 
-
+---
 <br>
 
 ## Task 5: IP Addressing and Protocols
@@ -139,6 +142,7 @@ When scraping websites, we're usually connecting to a public IP address that bel
 
 [Link to the colab file](https://colab.research.google.com/drive/1wfzUOkgFx6zPCAJ1MqeZoB5Q7iJqp5U2?usp=sharing)
 
+---
 <br>
 
 ## Task 6: Kali Linux and SSH
@@ -174,6 +178,8 @@ Scanning a website ([scanme.org](scanme.org))
 
 I also learnt what is `Secure Shell Protocol ( SSH )` , how it works and how it can be used for exploitation, even played a couple of [Wargames by OverTheWire](https://overthewire.org/wargames/bandit/), where I SSHed into their server and solve puzzles using different linux commands.
 
+---
+
 <br>
 
 ## Task 7: Databases
@@ -195,6 +201,8 @@ I then thought of exploring different technologies and learnt how to build the s
 [Github link](https://github.com/Siuumanth/MARVEL-/tree/main/Codes/Database)
 
 ![alt](https://github.com/Siuumanth/MARVEL-/blob/main/Images/7-code.png?raw=true)
+
+---
 
 
 ![alt](https://github.com/Siuumanth/MARVEL-/blob/main/Images/7-GET.png?raw=true)
