@@ -19,7 +19,6 @@ This program sets up an Express server and integrates Socket.IO for real-time co
 
 [Github Link](https://github.com/Siuumanth/MARVEL-/tree/main/Codes/socket)
 
-
 ![alt](https://github.com/Siuumanth/MARVEL-/blob/main/Images/1-code.png?raw=true)
 
 ![alt](https://github.com/Siuumanth/MARVEL-/blob/main/Images/1-website.png?raw=true)
